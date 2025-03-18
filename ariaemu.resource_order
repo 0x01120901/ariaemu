@@ -16,5 +16,10 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_main","order":1,"path":"objects/obj_main/obj_main.yy",},
+    {"name":"rm_test","order":1,"path":"rooms/rm_test/rm_test.yy",},
+    {"name":"func_gb","order":2,"path":"scripts/func_gb/func_gb.yy",},
+    {"name":"func_helper","order":1,"path":"scripts/func_helper/func_helper.yy",},
+  ],
 }
